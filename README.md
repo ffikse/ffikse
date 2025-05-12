@@ -2,7 +2,7 @@
 Geneticist,
 Uppsala, Sweden
 
-Find Bash and R related scripts here
+Find nothing here
 
 Reach me at ffikse at hotmail dot com
 

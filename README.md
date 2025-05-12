@@ -1,10 +1,10 @@
 @ffikse,
 Geneticist,
-Växa, Sweden
+Uppsala, Sweden
 
 Find Bash and R related scripts here
 
-Reach me at freddy dot fikse at vxa dot se
+Reach me at ffikse at hotmail dot com
 
 <!---
 ffikse/ffikse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
